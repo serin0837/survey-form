@@ -1,0 +1,1 @@
+- disabled selected value: just show in the list but you can not choose
